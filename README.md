@@ -1,3 +1,8 @@
 # PyBotTest
-Telegram Python Bot
-This is a placeholder
+A Instagram Engagement bot written in Python
+
+
+# Requirements
+
+- pyTelegramBotAPI
+- beautifulsoup4
